@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi I'm Fatima zahrae El hand 👋<br>👩🏻‍💻 Aspiring Software Engineer specializing in Frontend development<br/><br><br>👩🏻‍🎓 I’m currently learning [Software Engineer](https://www.alxafrica.com/) specializing in backend at ALX Africa<br/><br><br>🎨 Enthusiastic about exploring tech, backend systems, and productivity<br/><br><br>🌟 Embracing #learninginpublic to grow and share my journey<br/><br><br>📊 Currently diving into data analytics and data visualization!<br/>
+#<br> ## Hi I'm Fatima zahrae El hand 👋<br>👩🏻‍💻 Aspiring Software Engineer specializing in Frontend development<br/><br><br>👩🏻‍🎓 I’m currently learning [Software Engineer](https://www.alxafrica.com/) specializing in backend at ALX Africa<br/><br><br>🎨 Enthusiastic about exploring tech, backend systems, and productivity<br/><br><br>🌟 Embracing #learninginpublic to grow and share my journey<br/><br><br>📊 Currently diving into data analytics and data visualization!<br/>
 
 
 # 💻 Tech Stack:
@@ -14,11 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=parksomin72&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parksomin72&icon=0&color=0)](https://visitcount.itsvg.in)
