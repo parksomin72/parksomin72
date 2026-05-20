@@ -1,4 +1,7 @@
 # 💫 About Me:
+<p align='center'>
+  <img src="https://badge.mediaplus.ma/binary/fael-han">
+</p>
 <br> ## Hi I'm Fatima zahrae El hand 👋<br><br>👩🏻‍💻 Aspiring Software Engineer specializing in Frontend development<br/><br>👩🏻‍🎓 I’m currently learning [Software Engineer](https://www.alxafrica.com/) specializing in backend at ALX Africa<br/><br>🎨 Enthusiastic about exploring tech, backend systems, and productivity<br/><br>🌟 Embracing #learninginpublic to grow and share my journey<br/><br>📊 Currently diving into data analytics and data visualization!<br/>
 
 
